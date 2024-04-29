@@ -9,7 +9,7 @@ To design, implement, test and develop all the required documents to produce a f
 - Operating Frequency 50-60Hz
 - 3 Levels
 - Sensitivity: <100kOhm
-- Standards:
+- Standards:  
 ![image](https://github.com/eSpark-Consultants/abdullah-liquidlevelrelay/assets/109333673/c6cce724-37b4-4bc0-ad7a-f47f641b3c36)
 
 All below products to be done by same PCB. If single PCB is not possible, topic should be discussed.

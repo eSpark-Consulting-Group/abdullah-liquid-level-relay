@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NXVFWISU
 
 [Document2]
-DocumentPath=VSR-05-1-2.1.SchDoc
+DocumentPath=LLR-05 (VSR-05-1-2.1).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TFOAMNKN
 
 [Document3]
-DocumentPath=VSR-05-2-2.1.SchDoc
+DocumentPath=LLR-05 (VSR-05-2-2.1).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HMXOZLRG
 
 [Document4]
-DocumentPath=SSR-05D-PIC-1-1.6.SchDoc
+DocumentPath=LLR-05U (SSR-05D-PIC-1-1.6).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -117,7 +117,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VJVWDICU
 
 [Document5]
-DocumentPath=SSR-05D-PIC-2-1.6.SchDoc
+DocumentPath=LLR-05U (SSR-05D-PIC-2-1.6).SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,6 +132,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YTKQHGXB
+
+[Document6]
+DocumentPath=abdullah-liquidlevelrelay.Annotation
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources

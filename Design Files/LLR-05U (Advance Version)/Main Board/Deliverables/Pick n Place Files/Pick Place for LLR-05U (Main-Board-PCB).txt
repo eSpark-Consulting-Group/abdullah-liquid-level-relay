@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\abdullah-liquidlevelrelay\Design Files\LLR-05U (Advance Version)\Main Board\Project Outputs for LLR-05U (Main-Board)\Pick Place for LLR-05U (Main-Board-PCB).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       31/05/24
+Time:       12:48
+Revision:   952c1452cdbfb2271dd43f40070274fe2fa5149b
+Variant:    No variations
+Units used: mm
+
+Designator Layer    Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+K1         TopLayer 25.5270mm    23.3426mm    270      25.5270mm 23.3426mm 19.5270mm 28.4425mm 
+J3         TopLayer 27.3050mm    7.0866mm     0        28.0670mm 6.5532mm  24.1300mm 7.0866mm  
+J2         TopLayer 11.4300mm    7.0866mm     0        11.4300mm 7.0866mm  5.0800mm  7.0866mm  
+J1         TopLayer 10.9797mm    79.3141mm    180      10.9797mm 79.3141mm 17.3297mm 79.3141mm 
+T1         TopLayer 17.6022mm    45.9740mm    90       17.6022mm 45.9740mm 7.4422mm  35.8140mm 
+C1         TopLayer 5.6205mm     69.4365mm    315      5.6205mm  69.4365mm 4.3830mm  70.6740mm 
+U2         TopLayer 18.0340mm    69.5960mm    270      18.0340mm 69.5960mm 19.3040mm 72.7210mm 
+U1         TopLayer 27.3050mm    81.7880mm    270      27.3050mm 81.7880mm 28.5750mm 84.9130mm 
+R-U1       TopLayer 23.4188mm    82.8040mm    90       23.4188mm 82.8040mm 23.4188mm 81.5340mm 
+R25        TopLayer 31.2420mm    79.5020mm    180      31.2420mm 79.5020mm 32.0040mm 79.5020mm 
+R14        TopLayer 22.4790mm    68.3260mm    180      22.4790mm 68.3260mm 23.2410mm 68.3260mm 
+R13        TopLayer 31.2420mm    81.0260mm    0        31.2420mm 81.0260mm 30.4800mm 81.0260mm 
+R11        TopLayer 22.4790mm    66.8020mm    0        22.4790mm 66.8020mm 21.7170mm 66.8020mm 
+R7         TopLayer 14.4780mm    70.8660mm    90       14.4780mm 70.8660mm 14.4780mm 69.5960mm 
+R1         TopLayer 14.3510mm    22.9616mm    270      14.3510mm 22.9616mm 14.3510mm 23.9776mm 
+Q4         TopLayer 31.4960mm    83.8200mm    0        31.4960mm 83.8200mm 30.5460mm 82.8200mm 
+Q2         TopLayer 22.6060mm    70.8660mm    0        22.6060mm 70.8660mm 21.6560mm 69.8660mm 
+J4         TopLayer 17.5020mm    62.6300mm    0        17.5020mm 62.6300mm 12.4220mm 61.3600mm 
+D6         TopLayer 23.4188mm    77.2160mm    90       23.4188mm 77.2160mm 23.4188mm 75.3160mm 
+D5         TopLayer 11.5570mm    70.2310mm    90       11.5570mm 70.2310mm 11.5570mm 68.3310mm 
+D4         TopLayer 28.5750mm    75.4380mm    180      28.5750mm 75.4380mm 30.4750mm 75.4380mm 
+D3         TopLayer 5.9690mm     62.7380mm    180      5.9690mm  62.7380mm 9.0056mm  61.5381mm 
+D2         TopLayer 16.5100mm    23.5966mm    270      16.5100mm 23.5966mm 16.5100mm 25.2966mm 
+D1         TopLayer 28.5750mm    63.2460mm    180      28.5750mm 63.2460mm 31.6116mm 62.0461mm 
+C5         TopLayer 29.7180mm    69.9770mm    0        29.7180mm 69.9770mm 27.9680mm 69.9770mm 

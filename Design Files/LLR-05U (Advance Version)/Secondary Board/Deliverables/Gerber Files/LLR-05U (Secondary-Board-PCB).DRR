@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LLR-05U (Secondary-Board-PCB).PcbDoc   03/07/2024  2:15:12 pm
+NCDrill File Report For: LLR-05U (Secondary-Board-PCB).PcbDoc   04/07/2024  1:03:39 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,11 +7,11 @@ ASCII RoundHoles File : LLR-05U (Secondary-Board-PCB).TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             61        PTH        9.78inch (248.45mm)
+T1      12mil (0.3mm)                                             Round             63        PTH        8.73inch (221.86mm)
 T2      39mil (1mm)                                               Round             6         PTH        1.23inch (31.18mm)
 T3      43mil (1.1mm)                                             Round             10        NPTH       0.90inch (22.86mm)
 T4      98mil (2.5mm)                                             Round             2         NPTH       0.59inch (15.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              79
+Totals                                                                              81
 
 Total Processing Time (hh:mm:ss) : 00:00:00

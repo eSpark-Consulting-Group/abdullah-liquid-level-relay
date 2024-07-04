@@ -4,18 +4,21 @@ C:\Users\eSpark Cons Group\Documents\GitHub\Melih-SoundSensor\abdullah-liquidlev
 ========================================================================================================================
 File Design Information:
 
-Date:       27/06/24
-Time:       20:11
-Revision:   9d5846522312cda05f817212b8a1f23bf589c32b
+Date:       04/07/24
+Time:       16:23
+Revision:   6933fadac704791006c8f46ba6cd3b6b9a172f5f
 Variant:    No variations
 Units used: mm
 
 "Designator","Layer","Center-X(mm)","Center-Y(mm)","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"T1","TopLayer","16.4170mm","45.3600mm","90","16.4170mm","45.3600mm","6.2570mm","35.2000mm"
+"VR1","TopLayer","6.3500mm","14.7320mm","0","6.3500mm","14.7320mm","3.8500mm","17.7320mm"
+"RT1","TopLayer","6.0960mm","27.1780mm","180","6.0960mm","27.1780mm","9.8460mm","24.8030mm"
+"C2","TopLayer","5.5880mm","20.8722mm","0","5.5880mm","20.8722mm","1.8379mm","20.8722mm"
 "J3","TopLayer","26.5008mm","5.7225mm","0","26.5008mm","5.7225mm","23.9608mm","5.7225mm"
 "J2","TopLayer","8.8956mm","5.7212mm","0","8.8956mm","5.7212mm","3.8156mm","5.7212mm"
 "J1","TopLayer","8.8656mm","80.3075mm","180","8.8656mm","80.3075mm","13.9456mm","80.3075mm"
 "K1","TopLayer","24.3418mm","22.4746mm","270","24.3418mm","22.4746mm","18.3418mm","27.5745mm"
-"T1","TopLayer","16.4170mm","45.3600mm","90","16.4170mm","45.3600mm","6.2570mm","35.2000mm"
 "C1","TopLayer","4.4353mm","70.0925mm","315","4.4353mm","70.0925mm","3.1978mm","71.3300mm"
 "U2","TopLayer","16.8488mm","69.2360mm","270","16.8488mm","69.2360mm","18.1188mm","72.3610mm"
 "U1","TopLayer","26.1198mm","81.4280mm","270","26.1198mm","81.4280mm","27.3898mm","84.5530mm"

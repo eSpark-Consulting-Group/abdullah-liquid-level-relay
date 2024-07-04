@@ -2,73 +2,8 @@
 FileName = LLR-05U (Secondary-Board-PCB).GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : LLR-05U (Secondary-Board-PCB).GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-    D76
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : LLR-05U (Secondary-Board-PCB).GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : LLR-05U (Secondary-Board-PCB).GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : LLR-05U (Secondary-Board-PCB).GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : LLR-05U (Secondary-Board-PCB).GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Layer
+      File : LLR-05U (Secondary-Board-PCB).GBL
 
     Adding Layer      : Bottom Layer
 
@@ -78,47 +13,8 @@ Generating : Bottom Solder
 Used DCodes :
     D45
     D46
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : LLR-05U (Secondary-Board-PCB).GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : LLR-05U (Secondary-Board-PCB).GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
+    D77
+    D78
 *************************************************************
 
 *************************************************************
@@ -160,8 +56,85 @@ Used DCodes :
     D26
     D27
     D28
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : LLR-05U (Secondary-Board-PCB).GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D29
-    D74
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : LLR-05U (Secondary-Board-PCB).GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D79
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LLR-05U (Secondary-Board-PCB).GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : LLR-05U (Secondary-Board-PCB).GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : LLR-05U (Secondary-Board-PCB).GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -174,23 +147,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D74
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : LLR-05U (Secondary-Board-PCB).GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D47
-    D48
-    D74
-    D75
+    D77
 *************************************************************
 
 *************************************************************
@@ -203,7 +160,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D13
+    D12
     D17
     D18
     D19
@@ -216,7 +173,8 @@ Used DCodes :
     D26
     D27
     D28
-    D29
+    D45
+    D46
     D47
     D48
     D49
@@ -246,6 +204,49 @@ Used DCodes :
     D73
     D74
     D75
+    D76
+    D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : LLR-05U (Secondary-Board-PCB).GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : LLR-05U (Secondary-Board-PCB).GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -259,9 +260,9 @@ Generating : Drill Drawing
 
 Used DCodes :
     D10
-    D13
-    D47
-    D77
+    D12
+    D45
+    D80
 *************************************************************
 
 *************************************************************
@@ -283,6 +284,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D78
+    D81
 *************************************************************
 

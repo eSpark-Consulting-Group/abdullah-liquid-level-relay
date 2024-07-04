@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: LLR-05U (Main-Board-PCB).PcbDoc   27/06/2024  8:13:33 pm
+NCDrill File Report For: LLR-05U (Main-Board-PCB).PcbDoc   04/07/2024  4:26:12 pm
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -9,11 +9,13 @@ Tool       Hole Size               Hole Tolerance               Hole Type       
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.3mm (12mil)                                             Round             7         PTH        40.80mm (1.61inch)
 T2      0.9mm (35mil)                                             Round             2         PTH        3.50mm (0.14inch)
-T3      1mm (39mil)                                               Round             8         PTH        104.08mm (4.10inch)
-T4      1.1mm (43mil)                                             Round             10        PTH        22.86mm (0.90inch)
-T5      1.3mm (51mil)                                             Round             5         PTH        37.05mm (1.46inch)
-T6      1.6mm (63mil)                                             Round             8         PTH        111.48mm (4.39inch)
+T3      0.914mm (36mil)                                           Round             2         PTH        7.50mm (0.30inch)
+T4      1mm (39mil)                                               Round             10        PTH        129.52mm (5.10inch)
+T5      1.1mm (43mil)                                             Round             10        PTH        22.86mm (0.90inch)
+T6      1.2mm (47mil)                                             Round             2         PTH        8.88mm (0.35inch)
+T7      1.3mm (51mil)                                             Round             5         PTH        37.05mm (1.46inch)
+T8      1.6mm (63mil)                                             Round             8         PTH        111.48mm (4.39inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              40
+Totals                                                                              46
 
 Total Processing Time (hh:mm:ss) : 00:00:00
